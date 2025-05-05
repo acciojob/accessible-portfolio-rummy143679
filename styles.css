@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+ul{
+	list-style:none;
+	display:flex;
+	justify-content:even;
+}
+
+li{
+	margin-right:10px
+}
+
